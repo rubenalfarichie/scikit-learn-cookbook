@@ -87,9 +87,3 @@ Membahas praktik terbaik dalam membawa model yang telah dilatih ke lingkungan pr
 * **Skalabilitas, Pemantauan, & Siklus Hidup Model**: Pembuatan *deployment pipelines*, pemantauan penurunan akurasi (*model drift*) seiring waktu, serta otomatisasi pemeriksaan ambang batas validasi sebelum rilis produksi.
 
 ---
-
-## Cara Menjalankan Kode (Instalasi)
-1. Clone repositori ini:
-   ```bash
-   git clone [https://github.com/](https://github.com/)rubenalfarichie/scikit-learn-cookbook.git
-   cd scikit-learn-cookbook
