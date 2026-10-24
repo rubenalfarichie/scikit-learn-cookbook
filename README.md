@@ -91,5 +91,5 @@ Membahas praktik terbaik dalam membawa model yang telah dilatih ke lingkungan pr
 ## Cara Menjalankan Kode (Instalasi)
 1. Clone repositori ini:
    ```bash
-   git clone [https://github.com/](https://github.com/)<username-anda>/scikit-learn-cookbook.git
+   git clone [https://github.com/](https://github.com/)rubenalfarichie/scikit-learn-cookbook.git
    cd scikit-learn-cookbook
